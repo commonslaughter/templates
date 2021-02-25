@@ -1,2 +1,2 @@
 # templates
-A home for templates of text files
+Housing for templates of text files
