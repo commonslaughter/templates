@@ -1,4 +1,6 @@
 #!/bin/bash
+## Michael Tatum
+## Log Cleaner
 
 prev_count=0
 fpath=/var/log/app/app_log.*
