@@ -1,6 +1,5 @@
 #!/bin/bash
-## Michael Tatum, Accruent CloudOps
-## [insert Heron's list line here]
+## Michael Tatum
 
 ## viking mode for safety 
 set -e
