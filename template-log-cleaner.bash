@@ -1,6 +1,6 @@
 #!/bin/bash
 ## Michael Tatum
-## Log Cleaner
+## Log Cleaner, from 2DayGeek
 
 prev_count=0
 fpath=/var/log/app/app_log.*
@@ -11,7 +11,7 @@ count=$(cat /tmp/folder.out | wc -l)
 
 if [ "$prev_count" -lt "$count" ] ; then
 MESSAGE="/tmp/file1.out"
-TO="2daygeek@gmail.com"
+TO="amaad.michael@gmail.com"
 echo "Application log folders are deleted older than 15 days" >> $MESSAGE
 echo "+----------------------------------------------------+" >> $MESSAGE
 echo "" >> $MESSAGE
