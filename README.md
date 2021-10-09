@@ -1,5 +1,2 @@
 # templates
-Housing for templates of text files
-
-TODO
-- add sources to windows scripts 
+Housing for templates of executable text files
