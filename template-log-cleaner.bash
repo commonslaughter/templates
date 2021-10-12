@@ -11,7 +11,7 @@ count=$(cat /tmp/folder.out | wc -l)
 
 if [ "$prev_count" -lt "$count" ] ; then
 MESSAGE="/tmp/file1.out"
-TO="amaad.michael@gmail.com"
+TO="email@domain"
 echo "Application log folders are deleted older than 15 days" >> $MESSAGE
 echo "+----------------------------------------------------+" >> $MESSAGE
 echo "" >> $MESSAGE
