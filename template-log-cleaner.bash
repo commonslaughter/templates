@@ -1,5 +1,5 @@
 #!/bin/bash
-## Michael Tatum
+## [name]
 ## Log Cleaner, from 2DayGeek
 
 prev_count=0
