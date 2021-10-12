@@ -1,2 +1,2 @@
 #!/usr/bin/ruby
-## Michael Tatum
+## [name]
