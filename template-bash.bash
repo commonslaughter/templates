@@ -1,5 +1,5 @@
 #!/bin/bash
-## Michael Tatum
+## [name]
 
 ## viking mode for safety 
 set -e
